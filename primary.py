@@ -1,5 +1,5 @@
-# author: <name here>
-# date: <date here>
+# author: Tahlia Jones
+# date: July 8,2021
 
 # -------------------- Section 1 -------------------- #
 
@@ -18,6 +18,10 @@
 #
 # ---- WRITE CODE BELOW ---- #
 
+first_name = input('first name: ')
+last_name = input('last name: ')
+
+print(last_name, first_name)
 
 #   2. Pyramid
 #       a. Prompt input from the user in the form of a single character. Save to a variable named symbol.
@@ -35,6 +39,13 @@
 #
 # ---- WRITE CODE BELOW ---- #
 
+symbol = input('enter symbol: ')
+
+print(symbol*1)
+print(symbol*2)
+print(symbol*3)
+print(symbol*2)
+print(symbol*1)
 
 #   3. Parallelogram
 #       a. Prompt input from the user in the form of a single character. Save to a variable named symbol.
@@ -54,6 +65,11 @@
 #
 # ---- WRITE CODE BELOW ---- #
 
+symbol = input('>> symbol... ')
+print(
+    symbol + '\n' +
+
+)
 
 # -------------------- Section 2 -------------------- #
 
@@ -76,6 +92,7 @@
 #   num3 (float) | 21322.4
 #
 # ---- WRITE CODE BELOW ---- #
+
 
 
 # Objectives:
