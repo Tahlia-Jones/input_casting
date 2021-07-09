@@ -67,7 +67,6 @@ print(symbol*1)
 
 symbol = input('>> symbol... ')
 print(
-    symbol + '\n' +
 
 )
 
